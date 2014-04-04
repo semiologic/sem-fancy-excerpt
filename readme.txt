@@ -58,6 +58,10 @@ I'm aware. Last I checked, there wasn't anything I could do about it.
 
 == Change Log ==
 
+= 3.4 =
+
+- Code refactoring
+
 = 3.3.1 =
 
 - Simple code change to PHP5 constructor call
